@@ -1,0 +1,19 @@
+{
+  "name": "wavedash",
+  "version": "1.0.0",
+  "description": "An API for devs to grab fighter data from Nintendo's Super Smash Bros. series",
+  "main": "smash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tassyguy/WaveDash.git"
+  },
+  "author": "Simon Phillips",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tassyguy/WaveDash/issues"
+  },
+  "homepage": "https://github.com/tassyguy/WaveDash#readme"
+}
